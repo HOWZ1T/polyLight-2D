@@ -475,7 +475,8 @@ private int[] renderRay(int[] origin, float angle)
       
       x = xy[0];
       y = xy[1];
-    } else
+    } 
+    else
     {
       run = false;
     }
