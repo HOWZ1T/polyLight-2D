@@ -9,6 +9,6 @@ Polylight2D is a 2d light simulator, it uses raycasting to create polygons which
 - Press 's' to toggle the shadows on or off.
 
 
-#Note:
+# Note:
 - The 32 bit version requires Java to be installed.
 - The 64 bit version doesn't require Java as it is embeded in the program.
